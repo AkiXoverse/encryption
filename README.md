@@ -18,9 +18,10 @@ Le language de programmation utilisé par ce logiciel est : [Python](https://www
 1. Le logiciel est indépendant, si ses fichiers sources n'éxiste pas alors il es crééra
 2. La détection de fichiers avec une extension spécifique choisis par l'utilisateur est toujours en développement
 3. Vous pouvez décider si le logiciel doit faire une backup de la clé d'encryption ainsi que l'historique des noms du fichier dans un fichier txt
+4. sha256 encryption
 
 ## 💻・No skid
-1. Si vous voulez apporter des modifications au code ou même le réutiliser contactez-moi sur discord pour me prévenir
+1. Si vous voulez apporter des modifications au code ou même le réutiliser contactez-moi sur discord
 2. Je n'ai pas mis de licence sur mon code car je juge que c'est inutile
 3. Si vous réutilisez mon code sans autorisation ou même que je sois au courant, honte à vous et vos compétences de "dev"
 
