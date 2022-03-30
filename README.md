@@ -11,7 +11,7 @@ Le language de programmation utilisé par ce logiciel est : [Python](https://www
 
 ## ⚙・Installation
 1. Avoir installer [python](https://www.python.org) sur votre ordinateur
-2. Exécuté `setup.bat` pour avoir tout les modules utilisés par le logiciel
+2. Installer tout les modules se trouvant dans  `requirements.txt`
 3. Exécuté `Encrypteur.py`
 
 ## ⚠️・ATTENTION
